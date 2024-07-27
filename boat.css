@@ -1,0 +1,79 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container-fluid img {
+  max-width: 85px;
+  float: left;
+}
+.boAt_logo ul {
+  display: flex;
+}
+
+.boAt_logo ul li {
+  margin: 12px 24px;
+  font-size: 16px;
+  list-style: none;
+  font-family: Metropolis !important;
+}
+
+.boAt_logo ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.mane boat {
+  width: 100%;
+  float: left;
+  position: relative;
+}
+.boat1 {
+  width: 24%;
+  float: left;
+  margin-left: 15px;
+  margin-top: 37px;
+}
+.boat1 img {
+  max-width: 100%;
+}
+
+.boat1 button {
+  justify-content: center !important;
+  max-width: 70% !important;
+  border: 1px solid white;
+  bottom: -12px;
+  top: unset;
+  left: 15%;
+  z-index: 1;
+  border-radius: 10px !important;
+  padding: 6px 10px !important;
+  font-size: 12px;
+  font-weight: 700;
+  background: #fcc50b;
+  color: #000;
+  letter-spacing: -0.48px;
+}
+
+.mane-class {
+  width: 100%;
+  float: left;
+  overflow: scroll;
+}
+
+.boat2 {
+  width: 7.5%;
+  float: left;
+  margin-left: 15px;
+  margin-top: 37px;
+}
+
+.mane-class1  {width: 100%;float: left;overflow: scroll;}
+
+.boat3 {
+  width: 25%;
+  float: left;
+  margin-left: 15px;
+  margin-top: 37px;
+}
